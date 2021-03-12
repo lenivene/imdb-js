@@ -1,5 +1,7 @@
 <div align="center">
-    <img alt="Logo" title="imdb-js" width="100%" style="max-width:200px;" src=".github/logo.svg">
+  <div style="max-width:200px;width:100%;">
+    <img alt="Logo" title="imdb-js" width="100%" src=".github/logo.svg">
+  </div>
     <br><br>
     <h1 style="border:0;font-weight:bold;text-transform:uppercase;margin:0">Imdb.js</h1>
     <b>Consulta de informações no IMDB</b>
