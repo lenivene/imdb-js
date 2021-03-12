@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="Logo" title="imdb-js" width="100%" style="max-width:700px;" src="https://m.media-amazon.com/images/G/01/IMDb/BG_rectangle._CB1509060989_SY230_SX307_AL_.png">
+    <img alt="Logo" title="imdb-js" width="100%" style="max-width:200px;" src=".github/logo.svg">
     <br><br>
     <h1 style="border:0;font-weight:bold;text-transform:uppercase;margin:0">Imdb.js</h1>
     <b>Consulta de informações no IMDB</b>
@@ -57,4 +57,5 @@ imdb.movie('tt0993846').then(cnpj => {
 
 # 📝 License
 
+The logo is fully licensed by its creator.
 This project is under the MIT license.
